@@ -1,0 +1,31 @@
+img.myimage{
+  width:50%;
+  height:auto;
+  background-color: #D3D3D3;
+}
+
+body {
+	background-color: #F5F5F;
+}
+
+#card1{
+	background-color:#D3D3D3;
+}
+   
+
+.card-title{
+	font-weight:500;
+
+}
+.card-text {
+	font-weight:300;
+	border-color: #D3D3D3;
+}
+
+.navbar {
+	background: #D3D3D3;
+}
+
+.card {
+	background: #F5F5F;
+}
