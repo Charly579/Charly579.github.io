@@ -6,6 +6,7 @@ img.myimage{
 
 body {
 	background-color: #F5F5F;
+	font-family:'Rajdhani',sans-serif;
 }
 
 #card1{
@@ -32,4 +33,16 @@ body {
 
 #bar1{
 	background:white;
+}
+.jumbotron {
+  background-image: url("https://hbr.org/resources/images/article_assets/2004/10/SEPT15_03_535621603.jpg"/img/picture.jpg);
+  background-size: cover;
+  color: black;
+}
+
+img.img2{
+	width:50%;
+	height:auto;
+	align-content: right;
+
 }
